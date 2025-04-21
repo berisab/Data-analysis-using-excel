@@ -3,6 +3,7 @@ I was able to do data analysis using excel, created data pipeline , applied form
 
  DOWNOAD THE DATA SET HERE
 <a href="https://github.com/berisab/Data-analysis-using-excel/blob/main/my%20project.xlsx">DATA SET</a>
+
 -The owner of beri store wants an annual report of how the store has performed in sales ,so that he can make decisions on what to improve so as to add on sales.
 -Questions
 Find month with highest sales
