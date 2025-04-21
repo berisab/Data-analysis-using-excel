@@ -32,13 +32,13 @@ of orders.
 -Set was our most sold item, kurta had a good amount of orders but does not generate alot of income.
 
 - Major of our customers are women and they are adults , adults have more orders compared to any other age group
-.
+
 -Despite the fact that major items are delivered their is quite a number of returned, cancelled and refunded orders.
 
 RECOMENDATIONS
 
 - We need to ensure more efficiency in our top delivery channels(Amazon,Flipkart,Myntra) for customers to get their items way faster , to ensure customer retention.
-- 
+ 
 -Due to noticable down trends in our sales, we need to work more on finding new customers, creating product awareness, check on reduced pricing and improving quality.
 
 -We need to stock more on women's item , concentrate more energy on our major customers , besides the normal stock that we have , we can also stock up what adult women love too.
