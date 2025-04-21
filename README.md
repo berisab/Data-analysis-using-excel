@@ -1,10 +1,10 @@
 # Data-analysis-using-excel
 I was able to do data analysis using excel, created data pipeline , applied formatting, did analysis, created pivot tables , pivot charts and an interactive dashboard that provides trends and insights can be drawn from there.
 
- 
+ DOWNOAD THE DATA SET HERE
 <a href="https://github.com/berisab/Data-analysis-using-excel/blob/main/my%20project.xlsx">DATA SET</a>
-The owner of beri store wants an annual report of how the store has performed in sales ,so that he can make decisions on what to improve so as to add on sales.
-Questions
+-The owner of beri store wants an annual report of how the store has performed in sales ,so that he can make decisions on what to improve so as to add on sales.
+-Questions
 Find month with highest sales
 Find channel that is mostly used 
 Find the gender and age group with most customers.
